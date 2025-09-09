@@ -7,7 +7,7 @@
 ### How to use:
 
 ```
-./server-stats.sh
+./log-archive.sh
 ```
 
 ## Made by Lefter Sotiri with <3
